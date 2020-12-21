@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MQLDatabase.Node/bin
+/MQLDatabase.Node/obj
+/MQLDatabase.Core/bin
+/MQLDatabase.Core/obj
+/MQLDatabase.Common/obj
+/MQLDatabase.Common/bin
+/MQLDatabase/bin
+/MQLDatabase/obj
+/.vs
